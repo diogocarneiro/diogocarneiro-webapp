@@ -1,0 +1,15 @@
+{
+    "name": "diogocarneiro.diogocarneiro",
+    "description": "Reparações de Telemóveis e Serviços",
+    "architecture": "all",
+    "title": "Diogo Carneiro",
+    "hooks": {
+        "diogocarneiro": {
+            "apparmor": "diogocarneiro.apparmor",
+            "desktop":  "diogocarneiro.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Diogo Carneiro <geral@diogocarneiro.pt>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Diogo Carneiro
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://www.diogocarneiro.pt/* https://www.diogocarneiro.pt
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Image=splash.png
