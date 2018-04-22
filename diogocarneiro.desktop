@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Diogo Carneiro
 Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://www.diogocarneiro.pt/* https://www.diogocarneiro.pt
-Icon=logo.svg
+Icon=logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

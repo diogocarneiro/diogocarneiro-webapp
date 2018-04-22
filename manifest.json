@@ -11,5 +11,5 @@
     },
     "version": "1.0.0",
     "maintainer": "Diogo Carneiro <geral@diogocarneiro.pt>",
-    "framework" : "ubuntu-sdk-15.04.5"
+    "framework" : "ubuntu-sdk-15.04.6"
 }
